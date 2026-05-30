@@ -3,6 +3,7 @@ __pycache__/
 *.pyc
 .env
 storage_state.json
+.netsense_storage_state.json
 secrets/
 artifacts/
 .pytest_cache/
